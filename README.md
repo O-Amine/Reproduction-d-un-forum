@@ -45,7 +45,7 @@ Ce projet est conçu pour être "Plug & Play".
 1. **Cloner le projet**
 
    ```bash
-   git clone [https://github.com/ton-pseudo/nom-du-projet.git](https://github.com/ton-pseudo/nom-du-projet.git)
+   git clone [https://github.com/O-Amine/Reproduction-d-un-forum.git](https://github.com/O-Amine/Reproduction-d-un-forum.git)
    ```
 
 2. **Configurer le serveur**
