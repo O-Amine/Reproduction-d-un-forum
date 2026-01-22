@@ -1,0 +1,14 @@
+# Fichiers système (Mac et Windows)
+.DS_Store
+Thumbs.db
+
+# Dossiers de configuration des éditeurs (VS Code, etc.)
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Dossier des dépendances (si tu utilises Composer plus tard)
+/vendor/
+
+# Fichiers de logs (erreurs)
+*.log
